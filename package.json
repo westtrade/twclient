@@ -1,0 +1,12 @@
+{
+  "name": "twclient",
+  "version": "1.0.0",
+  "description": "TeeWorld client",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/westtrade/twclient.git",
+    "type": "git"
+  },
+  "author": "Popove Gennadiy <me@westtrade.tk>",
+  "license": "MIT"
+}
